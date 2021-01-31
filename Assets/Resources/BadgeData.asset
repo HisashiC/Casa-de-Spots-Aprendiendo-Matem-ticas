@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06c663037fe46ce4c8da6c86e84f7bad, type: 3}
+  m_Name: BadgeData
+  m_EditorClassIdentifier: 
+  achievements:
+  - title: Iniciador
+    medalla: {fileID: 21300000, guid: db25e0d7255053142a4314cad0b0f1c6, type: 3}
+    descripcion: "Inicia tu viaje en el mundo de las matem\xE1ticas"
+  - title: "Olimpiada Aritm\xE9tica"
+    medalla: {fileID: 21300000, guid: f4426fbfd39332c40b52f0c370c204e4, type: 3}
+    descripcion: "Completa el Nivel 1: Operaciones Matem\xE1ticas"
+  - title: "Resortera Geom\xE9trica"
+    medalla: {fileID: 21300000, guid: 3eed231e769894847984988abf5581bd, type: 3}
+    descripcion: 'Completa el Nivel 2: Figuras'
+  - title: "\xBFPares o Impares?"
+    medalla: {fileID: 21300000, guid: d8ffb9934cf07554baf490519fac3007, type: 3}
+    descripcion: 'Completa el Nivel 3: Pares o Impares'
+  - title: "\xA1Pastel sorpresa!"
+    medalla: {fileID: 21300000, guid: 4476c491354cd63419ccfcd7cace36c6, type: 3}
+    descripcion: 'Completa el Nivel 4: Fracciones'
+  - title: "\xA1Spots Feliz!"
+    medalla: {fileID: 21300000, guid: feb98bbd4d9256346a86fcf46809f262, type: 3}
+    descripcion: "\xA1Has constru\xEDdo la casa de Spots! \xA1Te felicito!"
+  - title: "Concentraci\xF3n y Audacia"
+    medalla: {fileID: 21300000, guid: 2fbbfb956f410304b9c28fc9ca869ce3, type: 3}
+    descripcion: Completa cualquier nivel sin perder ninguna vida.
+  - title: Estrellitas
+    medalla: {fileID: 21300000, guid: 8a076f06c8e83484a88c459ef95f69d7, type: 3}
+    descripcion: Obten tres estrellas en cualquier nivel.
+  - title: Carruaje de Plata
+    medalla: {fileID: 21300000, guid: 36f8d977320be6945af8681ddb68031c, type: 3}
+    descripcion: Completa todos los niveles sin errar una pregunta.
+  - title: "Ni\xF1os Victoriosos"
+    medalla: {fileID: 21300000, guid: 44094ae5a17909d48901472142926c5d, type: 3}
+    descripcion: Obten tres estrellas en todos los niveles.

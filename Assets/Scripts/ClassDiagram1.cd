@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SelectionMenu">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAACAgAEAAAgAACAAAAAAIAgAAAAAAlwAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Menus\SelectionMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEEAAAAAFSAAAABAAEgAAiEAEAAgAAAAAAABAQ=</HashCode>
+      <FileName>Assets\Scripts\Menus\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LearnScript">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABYdKcCIKDiIRIEAAIwyAsQBlEgQIEnhwgIAwACBBI=</HashCode>
+      <FileName>Assets\Scripts\Menus\LearnScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionSelection">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\OptionSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadgeManager">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAIAhBACgAAAAABAAMEAUAABAAAAAAAAEAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\BadgeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Badge">
+    <Position X="17.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\BadgeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadgeScriptable">
+    <Position X="17.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\BadgeScriptable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

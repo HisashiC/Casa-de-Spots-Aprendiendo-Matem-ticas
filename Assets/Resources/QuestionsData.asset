@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFCu\xE1ntos cuadrados hay en la imagen?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d9051332af60c7d4aabe9324d1bcecd6, type: 3}
+    options:
+    - 3
+    - 4
+    - 5
+    - 7
+    correctAns: 5
+  - questionInfo: "\xBFCu\xE1ntos tri\xE1ngulos hay en la imagen?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 239e9e20d7bd8dc4e9148c0d1242f022, type: 3}
+    options:
+    - 4
+    - 5
+    - 8
+    - 7
+    correctAns: 8
+  - questionInfo: "\xBFCu\xE1l es la figura que no est\xE1 en la imagen?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a813d2ef74683464eb87f7e72d6db508, type: 3}
+    options:
+    - "Pent\xE1gono"
+    - "C\xEDrculo"
+    - "Tri\xE1ngulo"
+    - "Hex\xE1gono"
+    correctAns: "Hex\xE1gono"
+  - questionInfo: "\xBFA qu\xE9 animal se parece?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 52f1469431a561e4d8e1a16c995d6661, type: 3}
+    options:
+    - Dragon
+    - Alpaca
+    - Caballo
+    - Oveja
+    correctAns: Caballo
+  - questionInfo: "\xBFA qu\xE9 animal se parece?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 56b3d1f470f538e42bd82ded0d279f94, type: 3}
+    options:
+    - Caracol
+    - Cisne
+    - Tortuga
+    - Flamenco
+    correctAns: Cisne
+  - questionInfo: "\xBFCu\xE1ntas figuras de diferente color hay en la imagen?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b25efefe8ee390a4ca649a1c2be2f53b, type: 3}
+    options:
+    - 5
+    - 8
+    - 7
+    - 6
+    correctAns: 7
+  - questionInfo: "\xBFCu\xE1ntas figuras que no son tr\xEDangulo encuentras?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 27150d99e4ac4bf41b97fc0222bdfdb0, type: 3}
+    options:
+    - 5
+    - 2
+    - 4
+    - 3
+    correctAns: 2
+  - questionInfo: "\xBFCu\xE1ntos tri\xE1ngulos de diferente color encuentras?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 44d5f4878c9edf04593fe2ce4f6ed156, type: 3}
+    options:
+    - 4
+    - 5
+    - 6
+    - 8
+    correctAns: 6
+  - questionInfo: "\xBFCu\xE1l es la cantidad que no corresponde a ninguna figura?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d8b6757b40672cb4ab5fc78366eb493b, type: 3}
+    options:
+    - 3
+    - 5
+    - 7
+    - 4
+    correctAns: 4
+  - questionInfo: "\xBFQu\xE9 figura aparece menos?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 87504f9e6281d05429faf789f8286e8a, type: 3}
+    options:
+    - "Tri\xE1ngulo"
+    - "C\xEDrculo"
+    - Rombo
+    - "Rect\xE1ngulo"
+    correctAns: "Rect\xE1ngulo"

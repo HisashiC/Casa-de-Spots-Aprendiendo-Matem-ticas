@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: FractionsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 fracci\xF3n es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 55f59128df8b9a94dafecfcc1874aa67, type: 3}
+    options:
+    - 4/9
+    - 2/7
+    - 1/9
+    - 2/4
+    correctAns: 2/7
+  - questionInfo: "\xBFCu\xE1l es el denominador de la fracci\xF3n?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 6943b09a4fcbdb441ab8dd4e674da68c, type: 3}
+    options:
+    - 5
+    - 3
+    - 7
+    - 1
+    correctAns: 5
+  - questionInfo: "\xBFQu\xE9 fracci\xF3n es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 135ba39c8ce63e646ab2cd25e8d3e770, type: 3}
+    options:
+    - 3/4
+    - 1/8
+    - 5/8
+    - 4/9
+    correctAns: 5/8
+  - questionInfo: "\xBFCu\xE1nto falta para completar?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9ada231a70145b64d92a07103622b07d, type: 3}
+    options:
+    - 1/3
+    - 1/9
+    - 1/4
+    - 1
+    correctAns: 1/3
+  - questionInfo: "\xA1Qu\xE9 rico chocolate! Com\xED 3 cuadrados de los 8, \xBFcu\xE1nta
+      fracci\xF3n me queda?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8d7cdcbc61e26144f972c5b92b4ad7f4, type: 3}
+    options:
+    - 5
+    - 9
+    - 5/8
+    - 4/9
+    correctAns: 5/8
+  - questionInfo: "\xBFQu\xE9 fracci\xF3n no equivale?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 46367923c109cb246a31b08bdcfe8b6f, type: 3}
+    options:
+    - 1/2
+    - 4/8
+    - 2/4
+    - 3/4
+    correctAns: 3/4
+  - questionInfo: "Sirvo a mi familia 5 porciones de una pizza. Si son ocho porciones,
+      \xBFCu\xE1l es la parte que falta?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 123d4d5bdadc35b40a1ef46b38c9dc00, type: 3}
+    options:
+    - 5/8
+    - 3/8
+    - 3/6
+    - 2/6
+    correctAns: 3/8
+  - questionInfo: "\xBFCu\xE1l es el numerador de la fracci\xF3n?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: eb7c38ea518be2041ba3761cad04cae2, type: 3}
+    options:
+    - 1
+    - 2
+    - 6
+    - 3
+    correctAns: 1
+  - questionInfo: "\xBFCu\xE1ntas partes pintadas tiene esa fracci\xF3n?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8f2c48a299234bf4f86a009cd23d3559, type: 3}
+    options:
+    - 4
+    - 9
+    - 5
+    - 7
+    correctAns: 4
+  - questionInfo: "\xA1Queremos que partan la torta! Somos 5 amigos y partimos 11
+      pedazos, \xBFCu\xE1ntas partes quedan?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: bc0da260efbcb0c4ea68425dfe80d63f, type: 3}
+    options:
+    - 5
+    - 6
+    - 4
+    - 10
+    correctAns: 6
+  - questionInfo: "\xA1Octubre de Turr\xF3n! Lo partimos en 8 pedazos iguales y nos
+      comemos la mitad, \xBFQu\xE9 fracci\xF3n has tomado?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 31017e1ae86e9774cb74eb748ec76163, type: 3}
+    options:
+    - 4/8
+    - 3/8
+    - 4/10
+    - 4/7
+    correctAns: 4/8
+  - questionInfo: "\xBFCu\xE1l es la fracci\xF3n que corresponde al bloque LEGO naranja?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 889abc8deee0f7148a962248064822d3, type: 3}
+    options:
+    - 2/3
+    - 2/9
+    - 2/8
+    - 2/5
+    correctAns: 2/8

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CorrectScript">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\CorrectScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoreScript">
+    <Position X="11.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\HighScoreScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LifeScript">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\LifeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mundo1Quiz">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>wAQIxIB0CCLREQAIBQAcASEgIoAAkBCdAMCgVAIJhCM=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\Mundo1Quiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreScript">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\ScoreScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeScript">
+    <Position X="6.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\TimeScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TotalQScript">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 1\TotalQScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mundo2Quiz">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAgAAMKDBBAACABAEAAAEwAAQAmBCYAIAAFgoAggE=</HashCode>
+      <FileName>Assets\Scripts\Mundo 2-4\Mundo2Quiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pregunta">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAAAQAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 2-4\Mundo2Quiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterfazJuego">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUYwJAgACGAI0QAABIMgAOQCAGQggAAAChECBAACACA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 2-4\InterfazJuego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArchivosPreguntas">
+    <Position X="16.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mundo 2-4\ArchivosPreguntas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

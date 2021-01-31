@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: DigitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2b36cc0639e2e464a980c88952656840, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Par
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 25c37b06c178cbb42a6d9407875712b9, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Impar
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2c5884ca7b75d7246a7bde6806cab3fa, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Impar
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 06d79f46b5d84be458e6959423827356, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Impar
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 49bffda69f90d2b4e8ca145d4e2b0277, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Par
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f06276f6f527c9a43882d8f39f06fa3c, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Par
+  - questionInfo: "\xBFImpar o par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 73d417ab2d9bde9429c158ee846eb298, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Par
+  - questionInfo: "\xBFEs par el n\xFAmero de perritos?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 65e7be1c79fdde54ea805350c2120abf, type: 3}
+    options:
+    - "S\xED"
+    - No
+    correctAns: No
+  - questionInfo: "\xBFEs impar el n\xFAmero de corazones?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 32139002d55b4f04d8f3f6018c34557f, type: 3}
+    options:
+    - "S\xED"
+    - No
+    correctAns: No
+  - questionInfo: "\xBFEs impar el n\xFAmero de chocolates?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 43ea2e61176df7b45a291b8fcbf73019, type: 3}
+    options:
+    - "S\xED"
+    - No
+    correctAns: "S\xED"
+  - questionInfo: "\xBFEl n\xFAmero de arboles es par o impar?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 6df77cfd65388074d9116a17768638e8, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Impar
+  - questionInfo: "\xBFEl n\xFAmero de casitas es par o impar?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4b1f6dd8629ec454a836441a62cc7ac3, type: 3}
+    options:
+    - Impar
+    - Par
+    correctAns: Impar
+  - questionInfo: "\xBFEl n\xFAmero de perritos es par?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5e6fb25961a64fd46ab65b13d05fc0c5, type: 3}
+    options:
+    - "S\xED"
+    - No
+    correctAns: "S\xED"
